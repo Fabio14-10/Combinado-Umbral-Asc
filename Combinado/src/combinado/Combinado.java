@@ -14,6 +14,6 @@ public class Combinado {
         System.out.println("Ingrese la temperatura en grados celsius: ");
         double Temp=sc.nextDouble();
         
-        asc.Aprobar(Temp);
+        asc.Acertar(Temp);
     }
 }
